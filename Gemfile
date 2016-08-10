@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'faker'
 # Front End style
 gem 'bootstrap-sass'
 gem 'font-awesome-sass'
